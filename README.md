@@ -4,7 +4,7 @@
 Interactive Arduino circuit simulation demonstrating multi-input control with LED outputs
 
 ## 🔗 Live Demo
-[View on Tinkercad](https://www.tinkercad.com/things/6bm4NatIbXI)
+[View on Tinkercad](https://www.tinkercad.com/things/6bm4NatIbXI-traffic-light-controller/editel?sharecode=A6mICp-pfuiCN9uDujCYF2uLX_V9RuQtjpWcp6OWL98)
 
 ## 💻 Arduino Code
 ```cpp
