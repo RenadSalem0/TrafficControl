@@ -63,7 +63,7 @@ void loop()
 | Arduino UNO        | Main controller          |
 | LED (x3)           | Visual output indicators |
 | Push Button (x3)   | Digital input controls   |
-| 220Ω Resistor (x3) | LED current limiting     |
+| Resistor (x3) | LED current limiting     |
 
 ## 🎯 How It Works
 
